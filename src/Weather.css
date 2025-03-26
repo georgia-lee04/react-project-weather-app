@@ -1,5 +1,5 @@
 body {
-  background-image: url("./images/blue-sky-background-1.png");
+  background-image: url("./images/blue-sky-background.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -70,6 +70,7 @@ body {
 
   .Weather .unit {
     font-size: 12px;
+    top: -20px;
   }
 
   .Weather li {
