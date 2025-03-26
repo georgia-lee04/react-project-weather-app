@@ -71,6 +71,7 @@ body {
   .Weather .unit {
     font-size: 10px;
     top: -20px;
+    margin-right: 5px;
   }
 
   .Weather li {
